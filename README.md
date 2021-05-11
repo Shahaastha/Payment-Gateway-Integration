@@ -1,9 +1,9 @@
 <h1><strong>Sparks Foundation Internship Project</strong></h1>
 Domain: Web and Mobile Development<br>
-Task#3: Payment Gateway Integration
+Task#3: Payment Gateway Integration<br><br>
 
 
-Creating a basic website having a button to donate and integrate with Payment Gateway.
+Problem Statement: Creating a basic website having a button to donate and integrate with Payment Gateway.
 
 <HR>
 Technology Stack: HTML, CSS, JS, PHP.<br>
